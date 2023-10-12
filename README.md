@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Anggit
 ---
 
-- 🔭 I’m currently working on Android Development
+- 🔭 I’m currently working on Mobile (Kotlin & Flutter) Development
 - 📫 How to reach me: [on my website](https://anggitprayogo.com)
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anggit97&show_icons=true&theme=outrun"/></p>
